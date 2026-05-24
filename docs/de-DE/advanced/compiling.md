@@ -18,6 +18,10 @@ Das ist in .NET ganz einfach und kann in wenigen Schritten erledigt werden.
 - [.NET 8.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 - [Git](https://git-scm.com/downloads)
 
+::: warning
+Stelle sicher, dass du die neuste Version des SDK installiert hast. Der apt-Paketmanager auf Linux installiert oft eine ältere Version, die während der Kompilierung zu Problemen führen könnte. Verwende das Installationsskript, um die neueste Version zu installieren.
+:::
+
 ## Repository klonen
 
 Du kannst das Repository mit dem folgenden Befehl klonen:
